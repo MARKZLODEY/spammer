@@ -7,7 +7,7 @@ from threading import Thread
 from time import sleep
 from colorama import Fore, Style
 from requests import get, post
-from user_agent import generate_user_agent
+
 
 
 def banner():
